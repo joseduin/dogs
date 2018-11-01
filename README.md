@@ -7,5 +7,5 @@
   <img src='https://github.com/joseduin/dogs/blob/master/20181101_010047.gif' width='400' height='600'/>
  </video>
  <br>
- <span>[Download .apk](https://github.com/joseduin/dogs/blob/master/app-debug.apk)</span>
+ <a href="https://github.com/joseduin/dogs/blob/master/app-debug.apk">Download .apk</a>
 </p>
