@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardBreedText">20dp</dimen>
+    <dimen name="cardBreedTextPaddin">20dp</dimen>
+    <dimen name="searchMargin">10dp</dimen>
+    <dimen name="icon">24dp</dimen>
+    <dimen name="iconMargin">10dp</dimen>
+</resources>
