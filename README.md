@@ -6,6 +6,4 @@
  <video autoplay loop muted inline>
   <img src='https://github.com/joseduin/dogs/blob/master/20181101_010047.gif' width='400' height='600'/>
  </video>
- <br>
- <a href="https://github.com/joseduin/dogs/blob/master/app-debug.apk">Download .apk</a>
 </p>
